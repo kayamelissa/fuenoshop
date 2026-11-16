@@ -1,0 +1,48 @@
+[build]
+  publish = "."
+
+# Uzun ömürlü önbellek: görseller ve ikonlar içerik değişmedikçe tekrar inmez.
+[[headers]]
+  for = "/images/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+[[headers]]
+  for = "/icons/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+[[headers]]
+  for = "/assets/*"
+  [headers.values]
+    Cache-Control = "public, max-age=604800"
+
+# HTML her zaman taze gelsin ki menü güncellemeleri anında görünsün.
+[[headers]]
+  for = "/index.html"
+  [headers.values]
+    Cache-Control = "public, max-age=0, must-revalidate"
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Content-Type-Options = "nosniff"
+    X-Frame-Options = "SAMEORIGIN"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+    Permissions-Policy = "geolocation=(), microphone=(), camera=()"
+
+# Eski QR menü ve kısa yollar
+[[redirects]]
+  from = "/m/fueno"
+  to = "/#menu"
+  status = 301
+
+[[redirects]]
+  from = "/menu"
+  to = "/#menu"
+  status = 301
+
+[[redirects]]
+  from = "/en"
+  to = "/?lang=en"
+  status = 301

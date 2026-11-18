@@ -26,3 +26,7 @@ Tatlı & Pasta, Frozen, Soğuk Kahveler, Milkshake, Matcha, Limonatalar, Alkols�
 - [Sık sorulan sorular](https://fuenoshop.com/#sss)
 - [Kutlamalar: doğum günü ve baby shower](https://fuenoshop.com/kutlamalar/)
 - [Matcha menüsü ve fiyatları](https://fuenoshop.com/matcha/)
+
+## Makine tarafından okunabilir sürümler
+- [Tüm site içeriği tek dosyada (llms-full.txt)](https://fuenoshop.com/llms-full.txt)
+- [Ana sayfa, Markdown](https://fuenoshop.com/index.md)

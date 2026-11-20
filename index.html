@@ -1,12 +1,18 @@
 <!DOCTYPE html>
 <html lang="tr" data-theme="dark">
 <head>
-  <script async src="https://www.googletagmanager.com/gtm.js?id=GTM-WMSZH3JG"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
+    (function(){var c=null;try{c=localStorage.getItem('fueno_consent');}catch(e){}var g=c==='granted'?'granted':'denied';
+    gtag('consent','default',{ad_storage:g,ad_user_data:g,ad_personalization:g,analytics_storage:g,functionality_storage:'granted',security_storage:'granted',wait_for_update:500});
+    gtag('set','ads_data_redaction',true);gtag('set','url_passthrough',true);
+    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');
+    fbq('consent',g==='granted'?'grant':'revoke');})();
     gtag('js', new Date());
   </script>
+  <script async src="https://www.googletagmanager.com/gtm.js?id=GTM-WMSZH3JG"></script>
+  <script src="/assets/consent.js" defer></script>
 <meta charset="UTF-8">
 <meta name="msvalidate.01" content="3BB802B2A64888A231568D88E32F2717">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -1571,7 +1577,7 @@
     </div>
     <div class="footer-bottom">
       <span>© 2026 Fueno Coffee &amp; Roastery. <span data-i18n="footer.rights">Tüm hakları saklıdır.</span></span>
-      <span><a href="https://www.instagram.com/fuenoshop/" target="_blank" rel="noopener" style="text-decoration:none">@fuenoshop</a> · <a href="/llms.txt" style="text-decoration:none">llms.txt</a> · <a href="/llms-full.txt" style="text-decoration:none">llms-full.txt</a> · <a href="/index.md" style="text-decoration:none">Markdown</a></span>
+      <span><a href="https://www.instagram.com/fuenoshop/" target="_blank" rel="noopener" style="text-decoration:none">@fuenoshop</a> · <a href="/llms.txt" style="text-decoration:none">llms.txt</a> · <a href="/llms-full.txt" style="text-decoration:none">llms-full.txt</a> · <a href="/index.md" style="text-decoration:none">Markdown</a> · <a href="/gizlilik/" style="text-decoration:none">Gizlilik ve çerezler</a> · <a href="#" data-cookie-settings style="text-decoration:none">Çerez tercihleri</a></span>
     </div>
   </div>
 </footer>

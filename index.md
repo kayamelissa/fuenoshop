@@ -152,7 +152,7 @@ Haftanın her günü 08.00'de açılıp gece 01.00'de kapanıyoruz.
 Evet. Fueno bir roastery; filtre kahve ve V60 için Kolombiya çekirdeklerini kendimiz kavuruyoruz. Türk kahvemizi de taze kavrulmuş çekirdekten, geleneksel yöntemle hazırlıyoruz. Çekirdek almak isterseniz WhatsApp'tan yazabilirsiniz.
 
 **Hangi matcha çeşitleriniz var?**
-Japon matchası ve taze sütle hazırladığımız beş ice matcha latte var: klasik, çilekli, vanilyalı, yaban mersinli ve mangolu. Fiyatlar 230–250 TL arasında.
+Japon matchası ve taze sütle hazırladığımız beş ice matcha latte var: klasik, çilekli, vanilyalı, yaban mersinli ve mangolu. Fiyatlar 230–250 TL arasında. Bunların dışında sıcak matcha latte, sade (sütsüz) matcha, dirty matcha ve farklı aroma kombinasyonları dahil isteğe göre her çeşit matcha hazırlıyoruz.
 
 **Hangi tatlılarınız var?**
 Tatlılarımızı kendi mutfağımızda yapıyoruz: San Sebastian cheesecake (sade ve Antep fıstıklı), American brownie, Magnolia kupları, kremalı kruvasanlar, Fueno waffle ve çikolatalı mousse.

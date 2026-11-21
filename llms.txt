@@ -1,6 +1,6 @@
 # Fueno Coffee & Roastery
 
-> İstanbul Bağcılar'da, Güneşli Park AVM'nin karşısında, kahvesini kendi kavuran bir kafe. Her gün 08.00–01.00 açık. Google'da 4,6 puan (60+ yorum, Kasım 2026).
+> İstanbul Bağcılar'da, Güneşli Park AVM'nin karşısında, kahvesini kendi kavuran bir kafe. Her gün 08.00–01.00 açık. Google'da 4,7 puan (60+ yorum, Kasım 2026).
 
 ## Temel bilgiler
 - Adres: 15 Temmuz Mah., Fevzi Çakmak Cd., Sun Flamingo A Blok No:15A, 34212 Bağcılar / İstanbul (Güneşli Park AVM karşısı)
@@ -12,9 +12,9 @@
 
 ## Öne çıkanlar
 - Roastery: filtre kahve ve V60 için Kolombiya çekirdeğini kendisi kavurur; Türk kahvesi taze kavrulmuş çekirdekten.
-- Matcha: Seremoni ve premium sınıfı Japon matchası ve taze sütle beş ice matcha latte (klasik, çilek, vanilya, yaban mersini, mango), 230–250 TL.
+- Matcha: Seremoni ve premium sınıfı Japon matchası. Menüde beş ice matcha latte (klasik, çilek, vanilya, yaban mersini, mango), 230–250 TL. İsteğe göre her çeşit matcha: sıcak matcha latte, sade (sütsüz) matcha, dirty matcha, farklı aroma kombinasyonları.
 - Tatlılar kendi mutfağında: San Sebastian cheesecake (sade ve Antep fıstıklı), American brownie, Magnolia kupları, kremalı kruvasanlar, Fueno waffle, çikolatalı mousse.
-- Palmiyelerin altında açık hava terası; gündüz gölgeli, akşam ışıklı.
+- Palmiyelerin altında açık hava terası; gündüz gölgeli, akşam ışıklı. Wi-Fi, otopark ve tuvalet var.
 - Doğum günü, baby shower, yıl dönümü ve küçük grup kutlamaları (WhatsApp ile rezervasyon).
 
 ## Menü (12 kategori, 87 ürün)
@@ -24,9 +24,10 @@ Tatlı & Pasta, Frozen, Soğuk Kahveler, Milkshake, Matcha, Limonatalar, Alkols�
 - [Ana sayfa ve tam menü (fiyatlarıyla)](https://fuenoshop.com/)
 - [English](https://fuenoshop.com/?lang=en)
 - [Sık sorulan sorular](https://fuenoshop.com/#sss)
+- [Kafe: Güneşli'de palmiyeli bahçeli kafe, saatler, imkânlar](https://fuenoshop.com/kafe/)
 - [Kutlamalar: doğum günü ve baby shower](https://fuenoshop.com/kutlamalar/)
 - [Kahve: kendi kavurduğumuz Kolombiya çekirdeği, V60, Türk kahvesi](https://fuenoshop.com/kahve/)
-- [Matcha menüsü ve fiyatları](https://fuenoshop.com/matcha/)
+- [Matcha: menü, fiyatlar ve isteğe göre her çeşit matcha](https://fuenoshop.com/matcha/)
 
 ## Makine tarafından okunabilir sürümler
 - [Tüm site içeriği tek dosyada (llms-full.txt)](https://fuenoshop.com/llms-full.txt)

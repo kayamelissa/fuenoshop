@@ -161,7 +161,7 @@ Tatlılarımızı kendi mutfağımızda yapıyoruz: San Sebastian cheesecake (sa
 Evet. Doğum günü, baby shower, yıl dönümü ve küçük grup kutlamaları için mekânı süslüyoruz. Tarihi ve kişi sayısını WhatsApp'tan (+90 537 026 28 62) yazmanız yeterli.
 
 **Açık hava oturma alanınız var mı?**
-Evet. Palmiyelerin altında, gündüz gölgeli, akşam ışıklarla aydınlanan bir terasımız var.
+Evet. Palmiyelerin altında, gündüz gölgeli, akşam ışıklarla aydınlanan bir terasımız var. Bahçede ateş çukurlu masalarımız da var; serin akşamlarda ve kışın ateş başında oturabilirsiniz.
 
 **Fiyatlarınız ne aralıkta?**
 Menüdeki ürünler yaklaşık 110 ile 360 TL arasında. Kişi başı harcama genellikle 200–400 TL.
